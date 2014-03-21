@@ -1,0 +1,22 @@
+{
+  "name": "activity-analyzer",
+  "author": "Jonah H. Harris <jonah.harris@gmail.com> (http://www.jonahharris.com/)",
+  "description": "A simple, time-of-day-based activity analyzer.",
+  "license": "MIT",
+  "version": "0.1.0",
+  "readmeFilename": "README.md",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jonahharris/node-activity-analyzer"
+  },
+  "bugs": {
+    "url": "https://github.com/jonahharris/node-activity-analyzer/issues"
+  },
+  "main": "./index",
+  "dependencies": {},
+  "devDependencies": {},
+  "optionalDependencies": {},
+  "engines": {
+    "node": "*"
+  }
+}
